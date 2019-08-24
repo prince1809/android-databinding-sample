@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">Databinding Sample</string>
     <string name="name_label">Name</string>
+    <string name="like">LIKE</string>
+    <string name="likes" translatable="false">Likes</string>
+    <string name="profile_avatar_cd">Profile\'s Avatar</string>
+    <string name="last_name_label">Last name</string>
 </resources>
